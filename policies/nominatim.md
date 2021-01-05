@@ -24,7 +24,7 @@ Use of any OSMF provided service is further governed by the [OSMF Terms of Use
 ### Websites and Apps
 
 Use that is directly triggered by the end-user (for example, user searches for something) is ok, provided that your number of users is moderate. Note that the usage limits above apply **per website/application**: the sum of traffic by all your users should not exceed the limits.
-
+ 
 Apps must make sure that they can switch the service at our request at any time (in particular, switching should be possible without requiring a software update). If at all possible, **set up a proxy** and also enable caching of requests.
 
 **Note:** periodic requests from apps are considered bulk geocoding and as such are strongly discouraged. It may be okay if your app has very few users and applies appropriate caching of results. Make sure you stay well below the API usage limits.
